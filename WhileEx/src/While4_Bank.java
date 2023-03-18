@@ -7,8 +7,12 @@ public class While4_Bank {
 		int save,withdraw,sum = 0;
 
 		while(true) {
+			
+			System.out.println("은행입니다.");
+			System.out.println("----------------------------");
 			System.out.println("----------------------------");
 			System.out.println("1.예금 | 2.출금 | 3.잔고 | 4.종료");
+			System.out.println("----------------------------");
 			System.out.println("----------------------------");
 			System.out.print("선택> ");
 			int select = scanner.nextInt();
