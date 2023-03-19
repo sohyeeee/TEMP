@@ -11,7 +11,7 @@ public class J5_4 {
 			int tmp = numArr[0];
 			numArr[0] = numArr[n];
 			numArr[n] = tmp;
-		}
+		}//
 		System.out.println(Arrays.toString(numArr));
 	}
 }
