@@ -19,7 +19,6 @@ public class ForEx1 {
 		//홀수값 출력하기
 		for(int i=1;i<=10;i+=2) {
 			System.out.println(i);
-
 		}
 		
 		//홀수값 더한값 출력하기

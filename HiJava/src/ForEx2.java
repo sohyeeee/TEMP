@@ -1,7 +1,6 @@
 import java.util.Scanner;
 
 public class ForEx2 {
-
 	public static void main(String[] args) {
 		// 사용자의 입력을 받아 1부터 사용자가 입력한 수까지 출력
 		int num = 0;
