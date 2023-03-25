@@ -7,11 +7,19 @@ public class While4_Bank {
 		int save,withdraw,sum = 0;
 
 		while(true) {
+			
+			System.out.println("은행입니다.");
+			System.out.println("----------------------------");
 			System.out.println("----------------------------");
 			System.out.println("1.예금 | 2.출금 | 3.잔고 | 4.종료");
 			System.out.println("----------------------------");
+//<<<<<<< HEAD
 			
 //			System.out.print("선택> ");
+//=======
+			System.out.println("----------------------------");
+			System.out.print("선택> ");
+//>>>>>>> branch 'main' of https://github.com/sohyeeee/TEMP.git
 			int select = scanner.nextInt();
 
 			switch(select) {
